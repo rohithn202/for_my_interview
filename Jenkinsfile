@@ -5,3 +5,4 @@ node {
     stage ("build_python") {
         sh "123.py"
     }
+}
